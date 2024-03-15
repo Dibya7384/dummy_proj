@@ -1,0 +1,24 @@
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\Pharmacy_DOM.dll.config
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\Pharmacy_DOM.dll
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\Pharmacy_DOM.pdb
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.dll
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.xml
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.csproj.AssemblyReference.cache
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.csproj.CoreCompileInputs.cache
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.csproj.CopyComplete
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.dll
+C:\Users\2318131\OneDrive - Cognizant\Desktop\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.pdb
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\Pharmacy_DOM.dll.config
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\Pharmacy_DOM.dll
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\Pharmacy_DOM.pdb
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.dll
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.xml
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.csproj.AssemblyReference.cache
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.csproj.CoreCompileInputs.cache
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.csproj.CopyComplete
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.dll
+C:\project\pharmacy management system\Pharmacy_Management_System\Pharmacy_DOM\obj\Debug\Pharmacy_DOM.pdb
